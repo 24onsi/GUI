@@ -1,0 +1,122 @@
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\basic.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\InfoList.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\MainPage.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Map.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\UserPage.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health_MarkupCompile.cache
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health_MarkupCompile.lref
+C:\Users\LMS\source\repos\sion\health\bin\Debug\net8.0-windows\health.exe
+C:\Users\LMS\source\repos\sion\health\bin\Debug\net8.0-windows\health.deps.json
+C:\Users\LMS\source\repos\sion\health\bin\Debug\net8.0-windows\health.runtimeconfig.json
+C:\Users\LMS\source\repos\sion\health\bin\Debug\net8.0-windows\health.dll
+C:\Users\LMS\source\repos\sion\health\bin\Debug\net8.0-windows\health.pdb
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\basic.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\InfoList.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\MainPage.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Map.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\UserPage.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.g.resources
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.AssemblyInfoInputs.cache
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.AssemblyInfo.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.csproj.CoreCompileInputs.cache
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.dll
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\refint\health.dll
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.pdb
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.genruntimeconfig.cache
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\ref\health.dll
+C:\Users\uy122\source\repos\health\bin\Debug\net8.0-windows\health.exe
+C:\Users\uy122\source\repos\health\bin\Debug\net8.0-windows\health.deps.json
+C:\Users\uy122\source\repos\health\bin\Debug\net8.0-windows\health.runtimeconfig.json
+C:\Users\uy122\source\repos\health\bin\Debug\net8.0-windows\health.dll
+C:\Users\uy122\source\repos\health\bin\Debug\net8.0-windows\health.pdb
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\basic.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\InfoList.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\MainPage.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Map.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\UserPage.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health_MarkupCompile.cache
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health_MarkupCompile.lref
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\basic.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\InfoList.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\MainPage.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Map.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\UserPage.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.g.resources
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.AssemblyInfoInputs.cache
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.AssemblyInfo.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.csproj.CoreCompileInputs.cache
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.dll
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\refint\health.dll
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.pdb
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.genruntimeconfig.cache
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\ref\health.dll
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.Properties.Resources.resources
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\health.csproj.GenerateResource.cache
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Payxaml.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Payxaml.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Payxaml.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Payxaml.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.Properties.Resources.resources
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\health.csproj.GenerateResource.cache
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Program.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Program.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Program.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Program.baml
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Booking.g.cs
+C:\Users\uy122\source\repos\health\obj\Debug\net8.0-windows\Booking.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Booking.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Caution.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Booking.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Caution.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\result11.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\result11.baml
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Paper.g.cs
+C:\Users\LMS\source\repos\sion\health\obj\Debug\net8.0-windows\Paper.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\bin\Debug\net8.0-windows\health.exe
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\bin\Debug\net8.0-windows\health.deps.json
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\bin\Debug\net8.0-windows\health.runtimeconfig.json
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\bin\Debug\net8.0-windows\health.dll
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\bin\Debug\net8.0-windows\health.pdb
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Caution.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\InfoList.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\MainPage.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Map.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Paper.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Payxaml.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Program.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\result11.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\UserPage.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health_MarkupCompile.cache
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health_MarkupCompile.lref
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Caution.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\InfoList.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\MainPage.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Map.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Paper.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Payxaml.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\Program.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\result11.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\UserPage.baml
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.g.resources
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.Properties.Resources.resources
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.csproj.GenerateResource.cache
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.AssemblyInfoInputs.cache
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.AssemblyInfo.cs
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.csproj.CoreCompileInputs.cache
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.dll
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\refint\health.dll
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.pdb
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\health.genruntimeconfig.cache
+C:\Users\uy122\OneDrive\바탕 화면\프로젝트\11GUI프로그램\코드 파일\health\obj\Debug\net8.0-windows\ref\health.dll

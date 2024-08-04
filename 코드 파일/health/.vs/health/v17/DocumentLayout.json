@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|c:\\users\\uy122\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11gui\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\program.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|solutionrelative:program.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|c:\\users\\uy122\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11gui\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\program.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|solutionrelative:program.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|c:\\users\\uy122\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11gui\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\map.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|solutionrelative:map.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|c:\\users\\uy122\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11gui\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8DBC4F3B-7B38-42A2-8BAF-8BF13AB2006E}|health.csproj|solutionrelative:map.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Program.xaml.cs",
+              "RelativeDocumentMoniker": "Program.xaml.cs",
+              "ToolTip": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Program.xaml.cs",
+              "RelativeToolTip": "Program.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:54:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.xaml",
+              "DocumentMoniker": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Program.xaml",
+              "RelativeDocumentMoniker": "Program.xaml",
+              "ToolTip": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Program.xaml",
+              "RelativeToolTip": "Program.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T08:54:24.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Map.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Map.xaml.cs",
+              "RelativeDocumentMoniker": "Map.xaml.cs",
+              "ToolTip": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Map.xaml.cs",
+              "RelativeToolTip": "Map.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T08:54:15.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Map.xaml",
+              "DocumentMoniker": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Map.xaml",
+              "RelativeDocumentMoniker": "Map.xaml",
+              "ToolTip": "C:\\Users\\uy122\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD504\uB85C\uC81D\uD2B8\\11GUI\uD504\uB85C\uADF8\uB7A8\\\uCF54\uB4DC \uD30C\uC77C\\health\\Map.xaml",
+              "RelativeToolTip": "Map.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T08:54:09.39Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 142,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

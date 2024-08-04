@@ -1,0 +1,24 @@
+﻿<Page x:Class="LMS3_GUIproject.InfoList"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LMS3_GUIproject"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="600"
+      Title="InfoList">
+
+    <Grid Background="White">
+        <Button x:Name="Btn_basic" Content="Button" HorizontalAlignment="Left" Margin="42,100,0,0" VerticalAlignment="Top" Height="180" Width="150" Click="Btn_basic_Click" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Rectangle HorizontalAlignment="Center" Height="6" Margin="0,65,0,0" VerticalAlignment="Top" Width="600" Fill="#FF58BBB6"/>
+        <Rectangle HorizontalAlignment="Center" Height="6" Margin="0,779,0,0" VerticalAlignment="Top" Width="600" Fill="#FF58BBB6"/>
+        <Button x:Name="Btn_gold1" Content="Button" HorizontalAlignment="Center" Margin="0,100,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Button x:Name="Btn_gold2" Content="Button" HorizontalAlignment="Left" Margin="409,100,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Button x:Name="Btn_novel1" Content="Button" HorizontalAlignment="Left" Margin="42,318,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Button x:Name="Btn_novel2" Content="Button" HorizontalAlignment="Center" Margin="0,318,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Button x:Name="Btn_spc1" Content="Button" HorizontalAlignment="Left" Margin="409,318,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Button x:Name="Btn_spc2" Content="Button" HorizontalAlignment="Left" Margin="42,538,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Button x:Name="Btn_pl1" Content="Button" HorizontalAlignment="Center" Margin="0,538,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+        <Button x:Name="Btn_pl2" Content="Button" HorizontalAlignment="Left" Margin="409,538,0,0" VerticalAlignment="Top" Height="180" Width="150" BorderBrush="{x:Null}" Background="#FFB0D1EC"/>
+    </Grid>
+</Page>

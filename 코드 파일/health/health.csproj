@@ -1,0 +1,114 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\01basic.png" />
+    <None Remove="Resources\01베이직.png" />
+    <None Remove="Resources\02gold1.png" />
+    <None Remove="Resources\02골드1.png" />
+    <None Remove="Resources\02골드2.png" />
+    <None Remove="Resources\03gold2.png" />
+    <None Remove="Resources\03골드2.png" />
+    <None Remove="Resources\04novel1.png" />
+    <None Remove="Resources\04노블01.png" />
+    <None Remove="Resources\05novel2.png" />
+    <None Remove="Resources\05노블02.png" />
+    <None Remove="Resources\06pla1.png" />
+    <None Remove="Resources\06플래티넘1.png" />
+    <None Remove="Resources\07pla2.png" />
+    <None Remove="Resources\07플래티넘2.png" />
+    <None Remove="Resources\08spc1.png" />
+    <None Remove="Resources\08특화01.png" />
+    <None Remove="Resources\09spc2.png" />
+    <None Remove="Resources\09특화2.png" />
+    <None Remove="Resources\alarm-clock %281%29.png" />
+    <None Remove="Resources\award.jpg" />
+    <None Remove="Resources\checkicon.png" />
+    <None Remove="Resources\hospital.jpg" />
+    <None Remove="Resources\image01.jpg" />
+    <None Remove="Resources\image02.jpg" />
+    <None Remove="Resources\logo.jpg" />
+    <None Remove="Resources\main_caution.png" />
+    <None Remove="Resources\main_doc.png" />
+    <None Remove="Resources\main_healthlist.png" />
+    <None Remove="Resources\main_map.png" />
+    <None Remove="Resources\main_result.png" />
+    <None Remove="Resources\map-and-location.png" />
+    <None Remove="Resources\mark.jpg" />
+    <None Remove="Resources\medical-diagnostics.png" />
+    <None Remove="Resources\mediicon.png" />
+    <None Remove="Resources\message.png" />
+    <None Remove="Resources\phone-call.png" />
+    <None Remove="Resources\search.png" />
+    <None Remove="Resources\signature.png" />
+    <None Remove="Resources\time.png" />
+    <None Remove="Resources\구강검진 문진표.png_0001.png" />
+    <None Remove="Resources\버스노선.png" />
+    <None Remove="Resources\암검진 문진표.png_0001.png" />
+    <None Remove="Resources\암검진 문진표.png_0002.png" />
+    <None Remove="Resources\일반검진 문진표.png_0001.png" />
+    <None Remove="Resources\지도.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\02골드1.png" />
+    <Resource Include="Resources\03골드2.png" />
+    <Resource Include="Resources\04노블01.png" />
+    <Resource Include="Resources\05노블02.png" />
+    <Resource Include="Resources\06플래티넘1.png" />
+    <Resource Include="Resources\07플래티넘2.png" />
+    <Resource Include="Resources\alarm-clock (1).png" />
+    <Resource Include="Resources\map-and-location.png" />
+    <Resource Include="Resources\medical-diagnostics.png" />
+    <Resource Include="Resources\message.png" />
+    <Resource Include="Resources\phone-call.png" />
+    <Resource Include="Resources\search.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\01basic.png" />
+    <Resource Include="Resources\01베이직.png" />
+    <Resource Include="Resources\02gold1.png" />
+    <Resource Include="Resources\03gold2.png" />
+    <Resource Include="Resources\04novel1.png" />
+    <Resource Include="Resources\05novel2.png" />
+    <Resource Include="Resources\06pla1.png" />
+    <Resource Include="Resources\07pla2.png" />
+    <Resource Include="Resources\award.jpg" />
+    <Resource Include="Resources\checkicon.png" />
+    <Resource Include="Resources\image01.jpg" />
+    <Resource Include="Resources\image02.jpg" />
+    <Resource Include="Resources\mark.jpg" />
+    <Resource Include="Resources\mediicon.png" />
+    <Resource Include="Resources\signature.png" />
+    <Resource Include="Resources\time.png" />
+    <Resource Include="Resources\구강검진 문진표.png_0001.png" />
+    <Resource Include="Resources\암검진 문진표.png_0001.png" />
+    <Resource Include="Resources\암검진 문진표.png_0002.png" />
+    <Resource Include="Resources\일반검진 문진표.png_0001.png" />
+    <Resource Include="Resources\지도.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,43 @@
+﻿<Page x:Class="health.Caution"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:health"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="600"
+      Title="Caution">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="74*"/>
+            <RowDefinition Height="355*"/>
+            <RowDefinition Height="471*"/>
+        </Grid.RowDefinitions>
+        <Image Margin="371,132,45,75" Source="/Resources/image01.jpg" Stretch="Fill" Grid.Row="1"/>
+        <Rectangle HorizontalAlignment="Center" Height="6" Margin="0,65,0,0" VerticalAlignment="Top" Width="600" Fill="#FF28257B"/>
+        <Rectangle HorizontalAlignment="Center" Height="6" Margin="0,344,0,0" VerticalAlignment="Top" Width="600" Fill="#FF28257B" Grid.Row="2"/>
+        <Image Margin="22,15,422,10" Source="/Resources/mark.jpg" Stretch="Fill"/>
+        <Label Content="▎ 검진 전 주의사항" HorizontalAlignment="Left" Margin="44,41,0,0" VerticalAlignment="Top" Width="270" FontSize="18" FontWeight="Bold" Background="{x:Null}" Foreground="#FF28257B" Height="34" Grid.Row="1"/>
+        <Label Content="▪ 검진을 받으실 분은 미리 예약을 해주십시오.&#xA;   (사전예약을 해주시면 예약일정에 맞춰 검진을 진행해드립니다.)" HorizontalAlignment="Center" VerticalAlignment="Top" Width="504" Height="65" FontSize="13" Foreground="#FF313131" Margin="0,93,0,0" Grid.Row="1"/>
+        <Label Content="▪ 문의전화 및 예약전화 062) 601-8333, 8334" HorizontalAlignment="Center" Margin="0,140,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Foreground="#FF313131" Grid.Row="1"/>
+        <Label Content="▪ 토요일 : 오전 8시 30분 ~ 오후 12시" HorizontalAlignment="Center" Margin="0,216,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Foreground="#FF313131" Grid.Row="1"/>
+        <Label Content="▪ 검사 당일 안내 받은 시간에 2층 종합건강검진센터로 내원해 주십시오." HorizontalAlignment="Center" Margin="0,253,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Foreground="#FF313131" Grid.Row="1"/>
+        <Label Content="▪ 검사전날 저녁식사는 간단히 드시고 9시 이후로는 금식해 주십시오.&#xA;  (물도 드시면 안 됩니다.)" HorizontalAlignment="Center" Margin="0,290,0,0" VerticalAlignment="Top" Width="504" Height="80" FontSize="13" Foreground="#FF313131" Grid.RowSpan="2" Grid.Row="1"/>
+        <Label Content="▪ 단, 혈압 약을 복용 중이신 분은 새벽 5시경에 물 한모금과 함께 드십시오.&#xA;  (혈압이 높을 시 내시경 등 기타 검사 진행이 어려울 수 있습니다.)" HorizontalAlignment="Center" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Margin="0,19,0,0" Grid.Row="2" Foreground="#FF313131"/>
+        <Label Content="▪ 대변은 검사전날 혹은 당일 아침에 콩알크기로 받아주시고 성함을 &#xA;  꼭 기재해 가져오십시오." HorizontalAlignment="Center" Margin="0,78,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Grid.Row="2" Foreground="#FF313131"/>
+        <Label Content="▪ 임신중 또는 생리중 이신 분은 가능한 검사를 피해주십시오." HorizontalAlignment="Center" Margin="0,136,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Grid.Row="2" Foreground="#FF313131"/>
+        <Label Content="▪ 검진 시 수유 중이신 분은 검진 전 미리 연락주십시오." HorizontalAlignment="Center" Margin="0,177,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Grid.Row="2" Foreground="#FF313131"/>
+        <Label Content="▪ 개인 사정으로 예약일을 변경하시려면 , 검사 2일 전까지 본원 종합건강검진센터로&#xA;  연락주십시오." HorizontalAlignment="Center" Margin="0,220,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Grid.Row="2" Foreground="#FF313131"/>
+        <Rectangle HorizontalAlignment="Left" Height="1" Margin="44,85,0,0" VerticalAlignment="Top" Width="509" Fill="#FFC3C3C3" Grid.Row="1"/>
+        <Rectangle HorizontalAlignment="Left" Height="1" Margin="44,279,0,0" VerticalAlignment="Top" Width="509" Fill="#FFC3C3C3" Grid.Row="2"/>
+        <Button Width="222" VerticalAlignment="Top" x:Name="Caution_Btn_main" Margin="328,290,0,0" Height="38" HorizontalAlignment="Left" Content="메  인  화  면" BorderBrush="#FFC5C5C5" Background="White" BorderThickness="1.5,1.5,1.5,1.5" Foreground="#FF28257B" Padding="0.5,0.5,0.5,0.5" FontWeight="Bold" Grid.Row="2" Click="Caution_Btn_main_Click">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="5"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Label Content="▪ 평   일 : 오전 8시 30분 ~ 오후 5시" HorizontalAlignment="Center" Margin="0,179,0,0" VerticalAlignment="Top" Width="504" Height="70" FontSize="13" Foreground="#FF313131" Grid.Row="1"/>
+    </Grid>
+</Page>
